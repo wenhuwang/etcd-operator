@@ -1,0 +1,7 @@
+domain: mars.io
+repo: github.com/wenhuwang/etcd-operator
+resources:
+- group: etcd
+  kind: EtcdCluster
+  version: v1alpha1
+version: "2"
